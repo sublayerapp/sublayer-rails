@@ -5,7 +5,7 @@ A Rails adapter for [sublayer](https://github.com/sublayerapp/sublayer), a model
 ## Installation
 
 ```ruby
-gem 'sublayer-rails'
+gem 'sublayer-rails', '~> 0.0.2'
 ```
 `bundle install`
 
