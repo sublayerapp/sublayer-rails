@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name = "sublayer-rails"
   spec.version = Sublayer::Rails::VERSION
   spec.authors = ["Andrew Kang"]
-  spec.email = ["andrew@sublayer.com"]
+  spec.email = ["andrew.b.kang@gmail.com"]
 
   spec.summary = "A Sublayer adapter for rails"
   spec.description = "An model-agnostic framework for LLM AI development"
