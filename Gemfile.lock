@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sublayer-rails (0.0.1)
+    sublayer-rails (0.0.2)
       railties (>= 6.0.0)
       sublayer (~> 0.0.6)
 
