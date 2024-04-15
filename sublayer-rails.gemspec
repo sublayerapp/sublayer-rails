@@ -37,6 +37,8 @@ Gem::Specification.new do |spec|
   spec.add_dependency "sublayer", "~> 0.0.6"
 
   spec.add_development_dependency "rspec", "~> 3.12"
+  spec.add_development_dependency "rake", "~> 13.0"
+  spec.add_development_dependency "rubocop", "~> 1.21"
 
   # Uncomment to register a new dependency of your gem
   # spec.add_dependency "example-gem", "~> 1.0"

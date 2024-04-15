@@ -180,9 +180,8 @@ PLATFORMS
 
 DEPENDENCIES
   rake (~> 13.0)
-  rspec (~> 3.0)
+  rspec (~> 3.12)
   rubocop (~> 1.21)
-  sublayer
   sublayer-rails!
 
 BUNDLED WITH
