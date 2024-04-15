@@ -1,0 +1,22 @@
+module Sublayer
+  module Generators
+    class <%= class_name %>Generator < Base
+      llm_output_adapter type: :single_string,
+        name: 'ouput_name',
+        description: 'output description'
+
+      def initialize
+      end
+
+      def generate
+        super
+      end
+
+      def prompt
+        <<-PROMPT
+        Prompt LLM
+        PROMPT
+      end
+    end
+  end
+end
